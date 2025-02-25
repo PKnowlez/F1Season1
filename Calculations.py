@@ -44,7 +44,7 @@ def Calculations():
         'Red Bull': 'darkblue',
         'VCARB': 'blue',
         'AlphaTauri': 'LightSlateGray',
-        'Alfa Romeo': 'darkred',
+        'Alfa Romeo': 'Maroon',
         'Mercedes': 'black',
         'Haas': 'gray',
     }  
